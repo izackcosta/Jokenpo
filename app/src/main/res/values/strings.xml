@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="title_app_name">JOKENPO!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="start_game">Start Game</string>
+    <string name="lives">Lives:</string>
+    <string name="heart_content_description">a heart</string>
+    <string name="stone_content_description">a stone</string>
+    <string name="paper_content_description">a piece of paper</string>
+    <string name="scisors_content_description">a pair of scisors</string>
+    <string name="none_content_description">an interrogation sign</string>
+    <string name="enemy_choice">Enemy choice:</string>
+    <string name="win_result">Player won the round!!!</string>
+    <string name="lose_result">Computer won the round!!!</string>
+    <string name="draw_result">Draw!!!</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="points">Points:</string>
+    <string name="game_over">Game Over!!!</string>
+    <string name="best_score">Best Score:</string>
+    <string name="retry">Retry</string>
+    <string name="jokenpo_score">jokenpo_score</string>
+    <string name="best_score_key">best_score</string>
+    <string name="audio_description">an icon representing audio option</string>
+</resources>
